@@ -127,7 +127,7 @@ For premium contact @l_abani
             ],
             [
                 Button.url("Channel ", url="https://t.me/NOOBTera"),
-                Button.url("Channel ", url="https://t.me/NOOBTera",
+                Button.url("Channel ", url="https://t.me/NOOBTera"),
             ],
             [
                 Button.url("Owner ", url="https://t.me/L_abani"),
