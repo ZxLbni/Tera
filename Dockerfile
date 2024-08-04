@@ -22,4 +22,4 @@ EXPOSE 5000
 ENV PYTHONUNBUFFERED=1
 
 # Run script.py when the container launches
-CMD ["python", "your_script_name.py"]
+CMD ["python", "terabox.py"]
